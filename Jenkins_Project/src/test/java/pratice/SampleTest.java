@@ -10,5 +10,6 @@ public class SampleTest {
 	{
 		System.out.println("Hello");
 		//Changes made
+		System.out.println("Testing Poll SCM");
 	}
 }
